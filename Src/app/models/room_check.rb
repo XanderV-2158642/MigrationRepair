@@ -1,0 +1,2 @@
+class RoomCheck < ApplicationRecord
+end

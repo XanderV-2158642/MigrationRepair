@@ -1,0 +1,2 @@
+class AnimalBatchPart < ApplicationRecord
+end

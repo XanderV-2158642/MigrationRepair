@@ -1,0 +1,2 @@
+class OrderBottle < ApplicationRecord
+end

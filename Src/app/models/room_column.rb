@@ -1,0 +1,2 @@
+class RoomColumn < ApplicationRecord
+end

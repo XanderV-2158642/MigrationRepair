@@ -1,0 +1,2 @@
+class GuideLink < ApplicationRecord
+end

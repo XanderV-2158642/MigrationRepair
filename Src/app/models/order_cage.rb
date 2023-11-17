@@ -1,0 +1,2 @@
+class OrderCage < ApplicationRecord
+end

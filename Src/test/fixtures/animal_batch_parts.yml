@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  birthdate: MyString
+  sacrifice_date: MyString
+  tissue: 1
+  amount: 1
+  ab_id: 1
+  room_nr: 1
+  available: false
+
+two:
+  birthdate: MyString
+  sacrifice_date: MyString
+  tissue: 1
+  amount: 1
+  ab_id: 1
+  room_nr: 1
+  available: false

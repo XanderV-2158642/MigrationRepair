@@ -1,0 +1,2 @@
+class NurtureNotification < ApplicationRecord
+end
